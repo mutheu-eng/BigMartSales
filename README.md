@@ -70,8 +70,8 @@ FROM sales_data;
 3. Supermarket type 1 had the highest number of sales with a contribution of 71%, while groceries had 2%
 4. Medium-sized store has the highest number of sales, while high-sized store had the least stores.
 5. Tier 3 had the highets number of sales compared to Tier 2 and 1 which had the least number of sales.
-6. The correlation of product weight and sales is 0.58, there is minimal correlation between these factors.
-7. Products with regular fat content had the highest sales compared to low fat products.
+6. The correlation of product MRP and sales is 0.58, there is minimal correlation between these factors.
+8. Products with regular fat content had the highest sales compared to low fat products.
 
 ### Recommendations
 - Since products like Fruits and Vegetables, Snack Foods, Household items, Frozen Foods, and Canned goods are driving the highest number of sales, it would be wise to focus on these product categories. Strategies such as expanding product offerings, improving product quality, or running targeted marketing campaigns to further capitalize on their popularity should be implemented.
