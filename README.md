@@ -13,6 +13,13 @@ Big Mart hypermarket, main objective for July is to improve their sales, they ta
 understanding the trends, and providing insights. 
 I follow the data analysis process to achieve the objectives set.
 
+![Store type](https://github.com/mutheu-eng/BigMartSales/assets/121784849/54c09b43-5497-41c7-8b96-75a09874eb8c)
+
+![storeszie](https://github.com/mutheu-eng/BigMartSales/assets/121784849/f439e6b6-ece7-4ce5-ace2-4d2fa087b620)
+
+![fatcontent](https://github.com/mutheu-eng/BigMartSales/assets/121784849/67b16222-3043-4a7c-92a7-4472310662a2)
+
+
 ### Tools:
  1. Ms. Excel
  2. Python
