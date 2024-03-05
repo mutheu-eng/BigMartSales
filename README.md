@@ -9,9 +9,8 @@
 
 ### Project Overview 
 
-Big Mart hypermarket, main objective for July is to improve their sales, they tasked me with the responsibility of analyzing their data, 
-understanding the trends, and providing insights. 
-I follow the data analysis process to achieve the objectives set.
+Big Mart hypermarket's primary goal for July is to boost sales. They've entrusted me with the responsibility of analyzing their data, comprehending the trends, and offering valuable insights. 
+I adhere to a rigorous data analysis process to effectively accomplish the set objectives.
 
 ![Store type](https://github.com/mutheu-eng/BigMartSales/assets/121784849/54c09b43-5497-41c7-8b96-75a09874eb8c)
 
